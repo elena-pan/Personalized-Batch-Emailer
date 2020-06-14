@@ -1,4 +1,4 @@
-# Mass-Emailing-App
+# Mass Emailing App Source Code
 
 ![App Interface iOS](./App%20Interface%20iOS.png)
 
